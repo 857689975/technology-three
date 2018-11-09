@@ -1,0 +1,70 @@
+extends layout
+
+block vars
+    - let title = '创客云设计'
+
+block content
+    #bd
+        #ban-in(style='background-image:url(/public/images/14415953225349.jpg)')
+            .ban-bg
+        .row4.fix
+            .wp
+                .tit-i
+                    h3 联系我们
+                    h5
+                        span contact
+                        |  zhizhuxiu
+                .contact-l
+                    ul.ul-contact
+                        li.li1 深圳市南山区幸福大道万达广场88-34
+                        li.li2
+                            a(href='javascript:;') 15325689999 (咨询) / 
+                            a(href='javascript:;')
+                                | 023-63695689 (售后)
+                                br
+                            a(href='javascript:;') 400-500-8888 (咨询)
+                        li.li3
+                            a(href='javascript:;') 88889999@qq.com
+                .contact-r
+                    form.contact-form
+                        div
+                            input#name.inp.l(type='text', name='name', placeholder='您的姓名')
+                            input#tel.inp.r(type='text', name='tel', placeholder='您的联系方式')
+                        textarea#nr(cols='30', rows='10', name='nr')
+
+                        input#sub.sub(type='submit', value='提交您的需求')
+        .map
+            .map-s
+                a.btn(href='javascript:;')
+                    em
+                    | 点击展开地图
+            .map-pop.map-pop-big
+                a.btn-down(href='javascript:;')
+                .map-bg1
+                .map-bg2
+                #map.map-c(style='width:100%;height:100%;')
+    .c
+block script
+    script.
+        $(' .btn').click(function () {
+            $('.map-pop').show();
+            $(this).parents('.map').addClass('map-big-i');
+            var winW = $(window).width();
+            var winH = $(window).height();
+            if (winW < 768) {
+                $('.map-pop').height($(window).height()+200);
+                $('.map-big-i').height($(window).height()+200);
+                $("html, body").animate({ scrollTop: $(document).height() }, 1000);
+            } else {
+
+                $('.map-pop').height($(window).height());
+                $('.map-big-i').height($(window).height());
+                $("html, body").animate({ scrollTop: $(document).height() }, 1000);
+            }
+            initMap();
+        })
+        $('.map .btn-down').click(function () {
+            $('.map-pop').hide();
+            $(this).parents('.map').removeClass('map-big-i');
+            $('.map').height('107');
+        })
