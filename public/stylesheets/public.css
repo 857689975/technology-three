@@ -123,7 +123,7 @@ a:hover {
 }
 
 #hd .tel {
-    background: url("../images/tel_bg.png") left center no-repeat;
+    background: url("../images/other/tel_bg.png") left center no-repeat;
     line-height: 90px;
     float: right;
     padding-left: 37px;
@@ -162,7 +162,7 @@ a:hover {
     font-size: 30px;
     line-height: 45px;
     cursor: pointer;
-    background: url("../images/menu_add.png") center center no-repeat;
+    background: url("../images/other/menu_add.png") center center no-repeat;
     -webkit-background-size: 50px;
     background-size: 25px;
     height: 50px;
@@ -174,7 +174,7 @@ a:hover {
     top: 50px;
     width: 100%;
     left: 0;
-    background: url("../images/alpha_black_70.png") repeat;
+    background: url("../images/other/alpha_black_70.png") repeat;
     text-align: center;
     display: none;
 }
@@ -212,7 +212,7 @@ a:hover {
 /*底部*/
 
 #fd {
-    background: url("../images/fd_bg.png") center top no-repeat;
+    background: url("../images/other/fd_bg.png") center top no-repeat;
     padding-top: 75px;
 }
 
@@ -250,7 +250,7 @@ a:hover {
 
 #fd .weixin,
 #fd .sina {
-    background: url("../images/fd_icon1.png") no-repeat;
+    background: url("../images/other/fd_icon1.png") no-repeat;
     width: 25px;
     height: 25px;
     display: inline-block;
@@ -277,7 +277,7 @@ a:hover {
 }
 
 #fd .sina {
-    background-image: url("../images/fd_icon2.png");
+    background-image: url("../images/other/fd_icon2.png");
 }
 
 #fd .fd-copy {
@@ -383,7 +383,7 @@ a:hover {
 }
 
 .side2 ul li .weixin em {
-    background: url("../images/arr3.png") no-repeat;
+    background: url("../images/other/arr3.png") no-repeat;
     width: 5px;
     height: 17px;
     display: block;
@@ -426,7 +426,7 @@ a:hover {
 }
 
 #banner .slides li.s1 .ban-txt {
-    background: url("../images/ban_k.png") no-repeat;
+    background: url("../images/other/ban_k.png") no-repeat;
 }
 
 #banner .flexslider .slides img {
@@ -472,7 +472,7 @@ a:hover {
 }
 
 #banner .flex-direction-nav a {
-    background: url("../images/ban_prev.png") no-repeat;
+    background: url("../images/other/ban_prev.png") no-repeat;
     width: 24px;
     height: 44px;
     opacity: 1;
@@ -485,7 +485,7 @@ a:hover {
 }
 
 #banner .flex-direction-nav .flex-next {
-    background-image: url("../images/ban_next.png");
+    background-image: url("../images/other/ban_next.png");
     right: 50%;
     margin-right: -570px;
 }
@@ -548,7 +548,7 @@ a:hover {
 }
 
 .banner-bg {
-    background: url("../images/ban_bg.png") center top no-repeat;
+    background: url("../images/other/ban_bg.png") center top no-repeat;
     height: 54px;
     width: 100%;
     position: absolute;
@@ -607,7 +607,7 @@ a:hover {
 }
 
 .ul-icon-i li a span {
-    background: url("../images/i_icon1.png") no-repeat;
+    background: url("../images/other/i_icon1.png") no-repeat;
     width: 134px;
     height: 134px;
     display: inline-block;
@@ -649,7 +649,7 @@ a:hover {
 }
 
 /*.ul-icon-i li a:hover span{
-	background-image: url(../images/i_icon1_h.png);
+	background-image: url(../images/other/i_icon1_h.png);
 }*/
 
 .ul-icon-i li .pad .pic {
@@ -682,7 +682,7 @@ a:hover {
 }
 
 .row2 {
-    background: url("../images/bg_1.png") center top no-repeat;
+    background: url("../images/other/bg_1.png") center top no-repeat;
     padding-top: 20px;
 }
 
@@ -724,7 +724,7 @@ a:hover {
     width: 100%;
     height: 100%;
     text-align: center;
-    background: url("../images/alpha_red_80.png") repeat;
+    background: url("../images/other/alpha_red_80.png") repeat;
     color: #fff;
 }
 
@@ -766,7 +766,7 @@ a:hover {
     width: 100%;
     height: 100%;
     text-align: center;
-    background: url("../images/alpha_red_80.png") repeat;
+    background: url("../images/other/alpha_red_80.png") repeat;
     color: #fff;
     /*display: none;*/
     -o-transition: .3s;
@@ -808,7 +808,7 @@ a:hover {
     display: inline-block;
     width: 65px;
     height: 65px;
-    background: url("../images/arr2.png") center center no-repeat #000014;
+    background: url("../images/other/arr2.png") center center no-repeat #000014;
     border-radius: 100%;
 }
 
@@ -817,7 +817,7 @@ a:hover {
 }
 
 .news-bg {
-    background: url("../images/bg_2.png") center top no-repeat;
+    background: url("../images/other/bg_2.png") center top no-repeat;
     overflow: hidden;
 }
 
@@ -879,7 +879,7 @@ a:hover {
 }
 
 .ul-news-i li .more {
-    background: url("../images/more1.png") no-repeat;
+    background: url("../images/other/more1.png") no-repeat;
     width: 36px;
     height: 36px;
     display: inline-block;
@@ -960,7 +960,7 @@ a:hover {
 }
 
 .ul-contact li {
-    background: url("../images/i_icon2.png") no-repeat;
+    background: url("../images/other/i_icon2.png") no-repeat;
     padding-left: 60px;
     font-size: 14px;
     margin-bottom: 20px;
@@ -1013,7 +1013,7 @@ a:hover {
 }
 
 .map em {
-    background: url("../images/arr1.jpg") center top no-repeat;
+    background: url("../images/other/arr1.jpg") center top no-repeat;
     width: 100%;
     height: 15px;
     display: block;
@@ -1023,7 +1023,7 @@ a:hover {
 }
 
 .map-s {
-    background: url("../images/map_s.png") center top;
+    background: url("../images/other/map_s.png") center top;
     height: 107px;
     text-align: center;
     overflow: hidden;
@@ -1038,7 +1038,7 @@ a:hover {
 }
 
 .map .btn-down {
-    background: url("../images/map_down.png") no-repeat;
+    background: url("../images/other/map_down.png") no-repeat;
     width: 112px;
     height: 48px;
     display: inline-block;
@@ -1060,7 +1060,7 @@ a:hover {
 
 .map .map-bg1,
 .map .map-bg2 {
-    background: url("../images/ban_bg_top.png") no-repeat center 0;
+    background: url("../images/other/ban_bg_top.png") no-repeat center 0;
     height: 54px;
     position: absolute;
     left: 0;
@@ -1070,7 +1070,7 @@ a:hover {
 }
 
 .map .map-bg2 {
-    background-image: url("../images/map_bg2.png");
+    background-image: url("../images/other/map_bg2.png");
     height: 41px;
     bottom: 0px;
     top: auto;
@@ -1098,7 +1098,7 @@ a:hover {
 }
 
 #ban-in .ban-bg {
-    background: url("../images/ban_bg.png") center top no-repeat;
+    background: url("../images/other/ban_bg.png") center top no-repeat;
     height: 54px;
     width: 100%;
     position: absolute;
@@ -1251,7 +1251,7 @@ a:hover {
 
 .sub-nav ul li a:hover,
 .sub-nav ul li.on a {
-    background: url("../images/disc.jpg") left center no-repeat;
+    background: url("../images/other/disc.jpg") left center no-repeat;
     color: #e4392a;
 }
 
@@ -1287,7 +1287,7 @@ a:hover {
     top: 0%;
     width: 100%;
     height: 100%;
-    background: url("../images/alpha_blue_60.png") repeat;
+    background: url("../images/other/alpha_blue_60.png") repeat;
     text-align: center;
     color: #fff;
     -o-transition: .3s;
@@ -1368,7 +1368,7 @@ a:hover {
 }
 
 .customer {
-    background: url("../images/bg_3.jpg") center top no-repeat;
+    background: url("../images/other/bg_3.jpg") center top no-repeat;
     padding-top: 25px;
     padding-bottom: 54px;
     margin-top: 50px;
@@ -1491,7 +1491,7 @@ a:hover {
 .team .flex-direction-nav {
     max-width: 1170px;
     margin: 0 auto;
-    background: url("../images/line.jpg") repeat-x center center;
+    background: url("../images/other/line.jpg") repeat-x center center;
     height: 30px;
     text-align: center;
 }
@@ -1505,7 +1505,7 @@ a:hover {
     width: 216px;
     height: 30px;
     text-align: center;
-    background: url("../images/arr_t.png") center center no-repeat #63637f;
+    background: url("../images/other/arr_t.png") center center no-repeat #63637f;
     border-radius: 10px;
     display: inline-block;
     opacity: 1 !important;
@@ -1515,7 +1515,7 @@ a:hover {
 }
 
 .team .flex-direction-nav .flex-next {
-    background-image: url("../images/arr_b.png");
+    background-image: url("../images/other/arr_b.png");
     left: 10px;
 }
 
@@ -1727,7 +1727,7 @@ a:hover {
 .case-article .computer-bg {
     position: relative;
     text-align: center;
-    background: url("../images/computer.png") center top no-repeat;
+    background: url("../images/other/computer.png") center top no-repeat;
     transform: translateY(45.9%);
     -webkit-transform: translateY(45.9%);
     -moz-transform: translateY(45.9%);
@@ -1776,7 +1776,7 @@ a:hover {
 .article-next {
     position: absolute;
     top: 50%;
-    background: url("../images/article_prev.png") no-repeat;
+    background: url("../images/other/article_prev.png") no-repeat;
     width: 36px;
     height: 66px;
     margin-top: -33px;
@@ -1785,7 +1785,7 @@ a:hover {
 }
 
 .article-next {
-    background-image: url("../images/article_next.png");
+    background-image: url("../images/other/article_next.png");
     left: auto;
     right: 0;
 }
@@ -1839,7 +1839,7 @@ a:hover {
 }
 
 .ul-webset li .btn {
-    background: url("../images/disc2.png") center center no-repeat #e60012;
+    background: url("../images/other/disc2.png") center center no-repeat #e60012;
     width: 34px;
     height: 34px;
     border-radius: 100%;
@@ -1877,7 +1877,7 @@ a:hover {
 }
 
 .webset-pop h2 a.close {
-    background: url("../images/close.png") no-repeat;
+    background: url("../images/other/close.png") no-repeat;
     width: 28px;
     height: 28px;
     display: inline-block;
@@ -1900,17 +1900,17 @@ a:hover {
 
 .webset-pop .txt h4 {
     font-size: 20px;
-    background: url("../images/icon1.png") left top no-repeat;
+    background: url("../images/other/icon1.png") left top no-repeat;
     padding-left: 60px;
     height: 40px;
 }
 
 .webset-pop .txt h4.tit-web1 {
-    background-image: url("../images/icon2.png");
+    background-image: url("../images/other/icon2.png");
 }
 
 .webset-pop .txt h4.tit-web2 {
-    background-image: url("../images/icon3.png");
+    background-image: url("../images/other/icon3.png");
 }
 
 .webset-pop .txt dl {
@@ -1920,7 +1920,7 @@ a:hover {
 .webset-pop .txt dl dd {
     font-size: 16px;
     line-height: 34px;
-    background: url("../images/disc4.png") left center no-repeat;
+    background: url("../images/other/disc4.png") left center no-repeat;
     padding-left: 15px;
 }
 
@@ -1948,7 +1948,7 @@ a:hover {
 
 .ul-webset li .ul-txt li h5 a {
     padding-left: 15px;
-    background: url("../images/disc4.png") left center no-repeat;
+    background: url("../images/other/disc4.png") left center no-repeat;
 }
 
 .ul-webset li .ul-txt li .txt-1 {
@@ -1965,7 +1965,7 @@ a:hover {
 }
 
 .ul-web {
-    background: url("../images/jjd.png") center center no-repeat;
+    background: url("../images/other/jjd.png") center center no-repeat;
     overflow: hidden;
     background-size: 100%;
 }
@@ -2028,7 +2028,7 @@ a:hover {
 }
 
 .bg-blue {
-    background: url("../images/bg_4.png") center top no-repeat;
+    background: url("../images/other/bg_4.png") center top no-repeat;
     padding-top: 25px;
     padding-bottom: 100px;
 }
@@ -2036,7 +2036,7 @@ a:hover {
 .ul-tab {
     width: 193px;
     float: left;
-    background: url("../images/line3.png") repeat-y 183px top;
+    background: url("../images/other/line3.png") repeat-y 183px top;
     margin-right: 80px;
     padding-top: 45px;
 }
@@ -2051,7 +2051,7 @@ a:hover {
 
 .ul-tab li h3 {
     font-size: 20px;
-    background: url("../images/circle.png") right center no-repeat;
+    background: url("../images/other/circle.png") right center no-repeat;
 }
 
 .ul-tab li span {
@@ -2062,7 +2062,7 @@ a:hover {
 
 .ul-tab li.hover h3,
 .ul-tab li a:hover h3 {
-    background-image: url("../images/circle1.png");
+    background-image: url("../images/other/circle1.png");
     color: #e4392a;
 }
 
@@ -2178,7 +2178,7 @@ a:hover {
 }
 
 .service {
-    background: url("../images/bg_5.png") center top no-repeat;
+    background: url("../images/other/bg_5.png") center top no-repeat;
     padding-top: 25px;
     padding-bottom: 63px;
 }
@@ -2275,7 +2275,7 @@ a:hover {
 
 .process em {
     position: absolute;
-    background: url("../images/r1.png") no-repeat;
+    background: url("../images/other/r1.png") no-repeat;
     display: inline-block;
     z-index: 60;
     opacity: 0;
@@ -2295,11 +2295,11 @@ a:hover {
     height: 57px;
     top: 42%;
     left: 19%;
-    background-image: url("../images/r2.png");
+    background-image: url("../images/other/r2.png");
 }
 
 .process em.q3 {
-    background-image: url("../images/r3.png");
+    background-image: url("../images/other/r3.png");
     width: 62px;
     height: 56px;
     top: 68%;
@@ -2307,7 +2307,7 @@ a:hover {
 }
 
 .process em.q4 {
-    background-image: url("../images/r4.png");
+    background-image: url("../images/other/r4.png");
     width: 86px;
     height: 86px;
     top: 29%;
@@ -2315,7 +2315,7 @@ a:hover {
 }
 
 .process em.q5 {
-    background-image: url("../images/r5.png");
+    background-image: url("../images/other/r5.png");
     width: 63px;
     height: 59px;
     top: 68%;
@@ -2323,7 +2323,7 @@ a:hover {
 }
 
 .process em.q6 {
-    background-image: url("../images/r6.png");
+    background-image: url("../images/other/r6.png");
     width: 51px;
     height: 51px;
     left: 77%;
@@ -2331,7 +2331,7 @@ a:hover {
 }
 
 .process em.q7 {
-    background-image: url("../images/r7.png");
+    background-image: url("../images/other/r7.png");
     width: 68px;
     height: 63px;
     left: 94%;
@@ -2365,7 +2365,7 @@ a:hover {
 
 .ul-solution li a span {
     display: block;
-    background: url("../images/icon_solution.png") no-repeat;
+    background: url("../images/other/icon_solution.png") no-repeat;
     width: 102px;
     height: 102px;
     margin: 0 auto;
@@ -2427,7 +2427,7 @@ a:hover {
 }
 
 .ul-solution li a:hover span {
-    background-image: url("../images/icon_solution_h.png");
+    background-image: url("../images/other/icon_solution_h.png");
 }
 
 .service-con .pic a:hover {
@@ -2444,7 +2444,7 @@ a:hover {
 
 .service-con .tit-s {
     line-height: 100px;
-    background: url("../images/disc3.png") left center no-repeat;
+    background: url("../images/other/disc3.png") left center no-repeat;
     padding-left: 14px;
     font-size: 18px;
 }
@@ -2492,7 +2492,7 @@ a:hover {
 }
 
 .ul-txt li h5 {
-    background: url("../images/jia.png") 95% center no-repeat;
+    background: url("../images/other/jia.png") 95% center no-repeat;
     font-size: 14px;
     height: 48px;
     line-height: 48px;
@@ -2514,7 +2514,7 @@ a:hover {
 }
 
 .ul-txt li.ok h5 {
-    background-image: url("../images/jian.png");
+    background-image: url("../images/other/jian.png");
     border-bottom: 0;
 }
 
@@ -2615,6 +2615,6 @@ a:hover {
 }
 
 .sub-nav ul li .mycur {
-    background: url("../images/disc.jpg") left center no-repeat;
+    background: url("../images/other/disc.jpg") left center no-repeat;
     color: #e4392a;
 }

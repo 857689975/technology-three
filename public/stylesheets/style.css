@@ -3101,7 +3101,7 @@ html[xmlns] .slides {
     width: 33.333%;
   }
   .ul-tab li h3 {
-    background: url("../images/circle.png") left center no-repeat;
+    background: url("../images/other/circle.png") left center no-repeat;
     padding-left: 30px;
   }
   .ul-tab li span {
@@ -3199,7 +3199,7 @@ html[xmlns] .slides {
     margin-bottom: 15px;
   }
   #fd {
-    background: url("../images/fd_bg.png") no-repeat center top;
+    background: url("../images/other/fd_bg.png") no-repeat center top;
     /*background: #191938;*/
     -webkit-background-size: 100% 100%;
     background-size: 100% 100%;
@@ -3329,7 +3329,7 @@ html[xmlns] .slides {
     margin-top: -1px;
   }
   .map .map-bg2 {
-    background-image: url("../images/map_bg3.png");
+    background-image: url("../images/other/map_bg3.png");
   }
   .team .flex-direction-nav {
     background: none;
